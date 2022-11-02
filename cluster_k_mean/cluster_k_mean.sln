@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cluster_k_mean", "cluster_k_mean\cluster_k_mean.vcxproj", "{A1D780C0-42FA-4F9A-85FC-2F3BC617CED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D780C0-42FA-4F9A-85FC-2F3BC617CED5}.Debug|x64.ActiveCfg = Debug|x64
+		{A1D780C0-42FA-4F9A-85FC-2F3BC617CED5}.Debug|x64.Build.0 = Debug|x64
+		{A1D780C0-42FA-4F9A-85FC-2F3BC617CED5}.Debug|x86.ActiveCfg = Debug|Win32
+		{A1D780C0-42FA-4F9A-85FC-2F3BC617CED5}.Debug|x86.Build.0 = Debug|Win32
+		{A1D780C0-42FA-4F9A-85FC-2F3BC617CED5}.Release|x64.ActiveCfg = Release|x64
+		{A1D780C0-42FA-4F9A-85FC-2F3BC617CED5}.Release|x64.Build.0 = Release|x64
+		{A1D780C0-42FA-4F9A-85FC-2F3BC617CED5}.Release|x86.ActiveCfg = Release|Win32
+		{A1D780C0-42FA-4F9A-85FC-2F3BC617CED5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24794B88-BB6C-4882-BCC5-F09F8BF908B0}
+	EndGlobalSection
+EndGlobal
