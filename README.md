@@ -34,9 +34,3 @@
 * 사용법: this.exe 클러스터파일이름
 * 결과파일은 ga_cluster.csv(경로 좌표 인덱스)
 * 프로그램 실행시 전처리에 5분정도 걸림
-
-## visualization
-* .py 파일이라 터미널에서 opencv가 설치된 상황에서 python visualization.py 실행
-* 결과가 원활이 안나오는 경우 주피터 노트북을 설치하여
-* 주피터 노트북에서 새 파일 생성한 상태에서 visualization.py 코드 붙여넣기
-* visualization.ipynb (주피터 노트북 .py) 는 용량 문제(github <25MB)로 업로드 못함
